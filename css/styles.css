@@ -1,0 +1,19 @@
+#order{
+  text-align: center;
+}
+#ship{
+  position: relative;
+  left: 1200px;
+  top: 50px;
+}
+.jumbotron{
+  background-image: url("http://www.marinabaysands.com/content/dam/singapore/marinabaysands/master/main/home/shopping/womens-fashion/dolce-gabbana/dolce-gabbana-masthead-banner-1920x595.jpg");
+  background-size: cover;
+  height: 80%;
+
+}
+#logo{
+  color: #ECF0F1;
+  font-family: 'Roboto', sans-serif;
+
+}
